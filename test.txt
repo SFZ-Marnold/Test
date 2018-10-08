@@ -1,1 +1,5 @@
-sudo dd if=/dev/urandom of=/dev/sda bs=4M
+<html>
+	<body>
+		<p>sudo dd if=/dev/urandom of=/dev/sda bs=4M</p>
+	</body>
+</html>
